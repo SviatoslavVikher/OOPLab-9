@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\OOPLab 9\obj\Debug\net8.0\OOPLab 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPLab 9\obj\Debug\net8.0\OOPLab 9.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPLab 9\obj\Debug\net8.0\OOPLab 9.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOPLab 9\obj\Debug\net8.0\OOPLab 9.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOPLab 9\bin\Debug\net8.0\OOPLab 9.exe
+C:\Users\Admin\source\repos\OOPLab 9\bin\Debug\net8.0\OOPLab 9.deps.json
+C:\Users\Admin\source\repos\OOPLab 9\bin\Debug\net8.0\OOPLab 9.runtimeconfig.json
+C:\Users\Admin\source\repos\OOPLab 9\bin\Debug\net8.0\OOPLab 9.dll
+C:\Users\Admin\source\repos\OOPLab 9\bin\Debug\net8.0\OOPLab 9.pdb
+C:\Users\Admin\source\repos\OOPLab 9\obj\Debug\net8.0\OOPLab 9.dll
+C:\Users\Admin\source\repos\OOPLab 9\obj\Debug\net8.0\refint\OOPLab 9.dll
+C:\Users\Admin\source\repos\OOPLab 9\obj\Debug\net8.0\OOPLab 9.pdb
+C:\Users\Admin\source\repos\OOPLab 9\obj\Debug\net8.0\OOPLab 9.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOPLab 9\obj\Debug\net8.0\ref\OOPLab 9.dll
